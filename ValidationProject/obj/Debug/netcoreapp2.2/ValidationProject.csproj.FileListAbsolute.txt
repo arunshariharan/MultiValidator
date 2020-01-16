@@ -1,0 +1,11 @@
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\bin\Debug\netcoreapp2.2\ValidationProject.deps.json
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\bin\Debug\netcoreapp2.2\ValidationProject.runtimeconfig.json
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\bin\Debug\netcoreapp2.2\ValidationProject.runtimeconfig.dev.json
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\bin\Debug\netcoreapp2.2\ValidationProject.dll
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.csprojResolveAssemblyReference.cache
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.csproj.CoreCompileInputs.cache
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.AssemblyInfoInputs.cache
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.AssemblyInfo.cs
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\bin\Debug\netcoreapp2.2\ValidationProject.pdb
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.dll
+c:\users\arunshariharan\source\repos\ValidationProject\ValidationProject\obj\Debug\netcoreapp2.2\ValidationProject.pdb

@@ -23,6 +23,8 @@ namespace ValidationProject
                 service.Validate(sampleCallConnectModel);
             }
 
+            Console.WriteLine("All validations passed");
+
             DisposeServices();
         }
 

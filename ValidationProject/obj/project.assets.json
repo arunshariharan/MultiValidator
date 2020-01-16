@@ -745,11 +745,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
+      "projectUniqueName": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
       "projectName": "ValidationProject",
-      "projectPath": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
+      "projectPath": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj",
       "packagesPath": "C:\\Users\\arunshariharan\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\obj\\",
+      "outputPath": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -5888,11 +5888,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\ValidationProject.Test.csproj",
+      "projectUniqueName": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\ValidationProject.Test.csproj",
       "projectName": "ValidationProject.Test",
-      "projectPath": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\ValidationProject.Test.csproj",
+      "projectPath": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\ValidationProject.Test.csproj",
       "packagesPath": "C:\\Users\\arunshariharan\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\obj\\",
+      "outputPath": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5911,8 +5911,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj": {
-              "projectPath": "c:\\users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj"
+            "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj": {
+              "projectPath": "C:\\Users\\arunshariharan\\source\\repos\\ValidationProject\\ValidationProject\\ValidationProject.csproj"
             }
           }
         }

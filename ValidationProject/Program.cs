@@ -24,6 +24,7 @@ namespace ValidationProject
             }
 
             Console.WriteLine("All validations passed");
+            Console.ReadLine();
 
             DisposeServices();
         }
